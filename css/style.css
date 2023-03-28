@@ -19,6 +19,11 @@
 .logo img{ 
     width: 117px; height: 40px;
 }
+
+.logo img:hover{
+    transition: 0.5s;
+    width: 121px; height: 41px;
+}
 /*NAVEGADOR ---------------------------------------------------*/ 
 .navegador{
     font-size: 20px;
